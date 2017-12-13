@@ -1,0 +1,6 @@
+Projeyi Çalýþtrýrmak için yapýlmasý gerekenler:
+*Projede sonuçlarýn grafiksel tablolar ile gösterilebilmesi için java kütüphanelerinden olan "jfreeChart" kütüphanesi projeye eklenmiþtir. 
+Bu kütüphanenin proje çalýþtýrýlýrken kullanýcý tarafýndan editöre eklenmesi gerekmektedir. 
+Bunun için "jfreechart-1.0.19/lib" dizini içerisinde yer alan tüm  jar dosyalarý "import" edilmelidir.
+
+*Veritabaný baðlantýsýný saðlayabilmek için "gzs_db 20171211 1159.sql" adlý dosya "restore" edilmelidir.
